@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>412 Food Rescue</title>
+    <title>Styled Maps - 412 Food Rescue</title>
     <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
     <meta charset="utf-8">
     <style>
@@ -21,9 +21,8 @@
       function initMap() {
         var map = new google.maps.Map(document.getElementById('map'), {
           center: {lat: 40.4583498, lng: -80.079528},
-          zoom: 15,
-          styles:
-          [
+          zoom: 15, 
+          styles: [
   {
     "elementType": "geometry",
     "stylers": [
@@ -191,11 +190,12 @@
       }
     ]
   }
-]      
+]       
         });
       }
+// Don't forget your API Key below vv
     </script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD0RP2ASM9PML8_5SbRZt6C-T6FPU95crs&callback=initMap"
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD0RP2ASM9PML8_5SbRZt6C-T6FPU95crsNo&callback=initMap"
     async defer></script>
   </body>
 </html>
