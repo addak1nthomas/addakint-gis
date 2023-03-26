@@ -10,4 +10,4 @@ Hi! I am a second year graduate student at Carnegie Mellon University. I am stud
 I am really interested in some more advanced forms of analysis in GIS. I am hoping to expand my capabailities within spatial data science. I recently learned more about ArcGIS insights, which I am also very excited to learn more about. Overall, I find GIS to be quite enjoyable and am looking forward to all of the content covered in the course.
 
 # Portfolio
-## [Assignment 1 - 412 Food Rescue Map](https://addak1nthomas.github.io/addakin-gis/412FoodRescue.html)
+## [Assignment 1 - 412 Food Rescue Map](https://addak1nthomas.github.io/addakint-gis/412FoodRescue.html)
