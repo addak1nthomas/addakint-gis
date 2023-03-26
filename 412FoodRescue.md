@@ -19,7 +19,8 @@ They partner with food retailers, volunteer drivers, and nonprofit organizations
 
 ## Map Information
 ### Map Design
-I utilized [Canva's Color Palette Generator](https://www.canva.com/colors/color-palette-generator/) to help build a color palette that is relative to the scheme that 412 Food Rescue uses on their public website. (IMAGE of COLOR PALETTE)
+![Color Palette](https://addak1nthomas.github.io/addakint-gis/412frcolorpalette.jpg)
+I utilized [Canva's Color Palette Generator](https://www.canva.com/colors/color-palette-generator/) to help build a color palette that is relative to the scheme that 412 Food Rescue uses on their public website.
 
 ### Map Code
 A copy of the JSON file used to generate the customized map can be found [HERE](https://addak1nthomas.github.io/addakint-gis/412FoodRescueMap.json).
