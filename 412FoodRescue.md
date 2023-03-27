@@ -2,6 +2,11 @@
 ## Map
 Check out the map that I created to support the efforts of a Pittsburgh-based non-profit organization, 412 Food Rescue, by clicking [HERE](https://addak1nthomas.github.io/addakint-gis/412FRMap.html)
 
+## Pictures of Map
+![Map1](https://addak1nthomas.github.io/addakint-gis/412fr1.jpg)
+![Map2](https://addak1nthomas.github.io/addakint-gis/412fr2.jpg)
+![Map3](https://addak1nthomas.github.io/addakint-gis/412fr3.jpg)
+
 ## About [412 Food Rescue](https://412foodrescue.org/get-started/)
 ### What do they do?
 412 Food Rescue works to prevent perfectly good food from entering the waste stream by redirecting it to those who are experiencing food insecurity.
