@@ -32,3 +32,7 @@ I utilized [Canva's Color Palette Generator](https://www.canva.com/colors/color-
 A copy of the JSON file used to generate the customized map can be found [HERE](https://addak1nthomas.github.io/addakint-gis/412FoodRescueMap.json).
 
 ### Map Building Process
+1. Create color pallette
+2. Use google maps, map builder tool to create the customized basemap
+3. Create a google API
+4. Embed the interactive map into organization's website
