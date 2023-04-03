@@ -11,3 +11,4 @@ I am really interested in some more advanced forms of analysis in GIS. I am hopi
 
 # Portfolio
 ## [Assignment 1 - 412 Food Rescue Map](https://addak1nthomas.github.io/addakint-gis/412FoodRescue.html)
+## [Assignment 2 - Pharmaceuticals in Mingo County, WV](https://addak1nthomas.github.io/addakint-gis/assignment2.html)
